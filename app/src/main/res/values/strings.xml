@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteNotebookApp</string>
+    <string name="emptyNotebook">The notebook is empty</string>
+</resources>
